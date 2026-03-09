@@ -1,3 +1,7 @@
-Laboratorio 2 – SQL Murder Mystery
+Laboratorio 2 – SQL Murder
+
 Nombre: Juan Esteban Tobon Martinez
-Curso: Estructura de Datos 
+
+Corre: esteban.tobon2@udea.edu.co
+
+Curso: Estructura de Datos 2026-1
